@@ -134,7 +134,6 @@ Ensure to replace `YOUR_MONGODB_URL` with your actual MongoDB URL. The `PORT` va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Dashboard.git
 ```
 
 2. Change to the project directory:
@@ -204,7 +203,6 @@ This structure separates the client and server codebases for better organization
 
 ## Author
 
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
 
 Certainly! Here's the documentation section with relevant links:
 
